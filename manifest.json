@@ -1,0 +1,21 @@
+{
+  "name": "Univ-Verse",
+  "short_name": "Univ-Verse",
+  "description": "Unlocking Informal Skills for Formal Opportunities",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#2563eb",
+  "icons": [
+    {
+      "src": "https://via.placeholder.com/192x192.png?text=UV",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://via.placeholder.com/512x512.png?text=UV",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
